@@ -13,7 +13,7 @@
 <br>
 
 ## Examples
-- Java **thread** - proj1
-- Java's **java.util.concurrent** package - proj2
-- **OpenMP** - proj3
-- **CUDA, Thrust** - proj4
+- [proj1](https://github.com/HyunJinNo/multicore_computing/tree/main/proj1) - Java **thread**
+- [proj2](https://github.com/HyunJinNo/multicore_computing/tree/main/proj2) - Java's **java.util.concurrent** package
+- [proj3](https://github.com/HyunJinNo/multicore_computing/tree/main/proj3) - **OpenMP**
+- [proj4](https://github.com/HyunJinNo/multicore_computing/tree/main/proj4) - **CUDA, Thrust**
